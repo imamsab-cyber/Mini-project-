@@ -1,0 +1,2 @@
+# No external dependencies required for basic functionality
+# Built-in libraries used: socket, re, os, sys, datetime

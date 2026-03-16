@@ -1,0 +1,5 @@
+{
+  "name": "Cybersecurity Toolkit",
+  "description": "A comprehensive cybersecurity toolkit featuring a port scanner, password analyzer, log analyzer, and subdomain finder. Includes both a web interface and a standalone Python CLI version.",
+  "requestFramePermissions": []
+}
